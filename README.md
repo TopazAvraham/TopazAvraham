@@ -25,7 +25,9 @@ I'm a Computer Science Undergraduate Student, on my 2nd year pursuing my B.Sc. C
 [![](https://img.shields.io/badge/-%20Hypernym%20Regex%20Finder-000)](https://github.com/TopazAvraham/Arkanoid)
 
 
-##### My Spotify is now playing: 🎧🎵
+
+
+#### My Spotify is now playing: 🎧🎵
 
 [![Spotify](https://novatorem-six-gold.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
