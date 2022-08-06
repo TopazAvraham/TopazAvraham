@@ -33,7 +33,7 @@ I'm a Computer Science Undergraduate Student, on my 2nd year pursuing my B.Sc. C
 
 
 
-### Lets connect through:
+### Let's connect through:
 <a href="https://www.facebook.com/topaz.avraham.7/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://twitter.com/AvrahamTopaz"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/topaz-avraham-68b340208/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
