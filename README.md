@@ -13,7 +13,16 @@ I'm a Computer Science Undergraduate Student, on my 2nd year pursuing my B.Sc. C
 - 📫 Reach out to me: topazvraham9@gmail.com
 - ⚡ Fun fact: I speak Japanese
 
+### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 <br>
+
+### OOP Projects
+[![](https://img.shields.io/badge/-%20Arkanoid%20-000)](https://github.com/TopazAvraham/Arkanoid)
+[![](https://img.shields.io/badge/-%20Math%20Expressions-000)](https://github.com/TopazAvraham/Arkanoid)
+[![](https://img.shields.io/badge/-%20Hypernym%20Regex%20Finder-000)](https://github.com/TopazAvraham/Arkanoid)
 
 
 ##### My Spotify is now playing: 🎧🎵
