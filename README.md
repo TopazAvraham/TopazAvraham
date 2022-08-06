@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+,I'm Topaz 👨🏻‍💻</h1>
+<br>
 
-<!--
-**TopazAvraham/TopazAvraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Topaz Avraham, I'm from Israel, living in Rishon-LeZion.
+<br />
+I'm a Computer Science Undergraduate Student, on my 2nd year pursuing my B.Sc. CS from Bar-Ilan University, Israel.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍ You can find my resume here [Resume]
+- 🌱 I’m currently learning Communication Networks and Algorithms
+- 📫 Reach out to me: topazvraham9@gmail.com
+- ⚡ Fun fact: I speak Japanese
+
+<br>
+
+
+##### My Spotify is now playing: 🎧🎵
+
+[![Spotify](https://novatorem-six-gold.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+<br>
+
+
+
+### Lets connect through:
+<a href="https://www.facebook.com/topaz.avraham.7/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://twitter.com/AvrahamTopaz"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/topaz-avraham-68b340208/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
+[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
