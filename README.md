@@ -29,7 +29,7 @@ I'm a Computer Science Undergraduate Student, on my 2nd year pursuing my B.Sc. C
 
 #### My Spotify is now playing: 🎧🎵
 
-[![Spotify](https://novatorem-git-master-topazavraham.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-six-gold.vercel.app/api/spotify)](https://open.spotify.com/user/21336qvyx5stgrauzwmmgu6ui?si=G_M-Ukm0Qi6Lx88A9DnsuQ)
 
 <br>
 
