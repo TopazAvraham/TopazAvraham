@@ -22,7 +22,7 @@ I'm a Computer Science Undergraduate Student, on my 2nd year pursuing my B.Sc. C
 ### OOP Projects
 [![](https://img.shields.io/badge/-%20Arkanoid%20-000)](https://github.com/TopazAvraham/Arkanoid)
 [![](https://img.shields.io/badge/-%20Math%20Expressions%20Interpreter-000)](https://github.com/TopazAvraham/Math-Expressions-Interpreter.git)
-[![](https://img.shields.io/badge/-%20Regex%20Hypernym%20Interpreter-000)](https://github.com/TopazAvraham/Regex-Hypernym-Database.git)
+[![](https://img.shields.io/badge/-%20Regex%20Hypernym%20Database-000)](https://github.com/TopazAvraham/Regex-Hypernym-Database.git)
 
 
 
