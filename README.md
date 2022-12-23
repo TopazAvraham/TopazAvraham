@@ -20,7 +20,6 @@ I'm from Israel, living in Rishon-LeZion.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -33,7 +32,7 @@ I'm from Israel, living in Rishon-LeZion.
 [![](https://img.shields.io/badge/-%20Regex%20Hypernym%20Database-000)](https://github.com/TopazAvraham/Regex-Hypernym-Database.git)
 
 
-
+<br>
 
 #### My Netflix is now playing: 📺 🔉 
 
