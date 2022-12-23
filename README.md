@@ -7,7 +7,7 @@ I'm a 2nd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan Unive
 I'm from Israel, living in Rishon-LeZion.
 <br>
 
-- ✍ You can find my resume [here](https://drive.google.com/file/d/1mVsbCtYMwqK2hd_D_L_GwPIO1e2RClCv/view?usp=sharing)
+- ✍ You can find my resume [here](https://drive.google.com/file/d/1ye1It3Eqx6L3fV70n7M7B-GaRfsmjmf3/view?usp=sharing)
 - 🌱 I’m currently learning Communication Networks and Algorithms
 - 📫 Reach out to me: topazvraham9@gmail.com
 - ⚡ Fun fact: I speak Japanese
@@ -33,7 +33,6 @@ I'm from Israel, living in Rishon-LeZion.
 
 #### My Spotify is now playing: 🎧🎵
 
-[![Spotify](https://novatorem-six-gold.vercel.app/api/spotify)](https://open.spotify.com/user/21336qvyx5stgrauzwmmgu6ui?si=G_M-Ukm0Qi6Lx88A9DnsuQ)
 [![Spotify](https://novatorem-six-gold.vercel.app/api/spotify)](https://open.spotify.com/user/21336qvyx5stgrauzwmmgu6ui?si=G_M-Ukm0Qi6Lx88A9DnsuQ)
 
 <br>
