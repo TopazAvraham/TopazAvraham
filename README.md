@@ -33,7 +33,7 @@ I'm from Israel, living in Rishon-LeZion.
 
 #### My Spotify is now playing: 🎧🎵
 
-[![Spotify](https://novatorem-six-gold.vercel.app/api/spotify)](https://open.spotify.com/user/21336qvyx5stgrauzwmmgu6ui?si=G_M-Ukm0Qi6Lx88A9DnsuQ)
+<a href="https://www.netflix.com/il-en/title/70195800"><img src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/suits.jpg?raw=true"/></a>
 
 <br>
 
