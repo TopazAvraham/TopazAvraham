@@ -31,7 +31,7 @@ I'm from Israel, living in Rishon-LeZion.
 
 
 
-#### My Spotify is now playing: 🎧🎵
+#### My Netflix is now playing: 📺 🔉 
 
 <a href="https://www.netflix.com/il-en/title/70195800"><img src="https://github.com/TopazAvraham/IntroductionToCS-University-C-programming/blob/master/Screenshots/suits.jpg?raw=true"/></a>
 
