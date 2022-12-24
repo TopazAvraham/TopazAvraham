@@ -9,6 +9,7 @@ I'm from Israel, living in Rishon-LeZion.
 
 - ✍ You can find my resume [here](https://drive.google.com/file/d/1ye1It3Eqx6L3fV70n7M7B-GaRfsmjmf3/view?usp=sharing)
 - 🌱 I’m currently learning Communication Networks and Algorithms
+- 💻 You can find my repositories [here](https://github.com/TopazAvraham?tab=repositories)
 - 📫 Reach out to me: topazvraham9@gmail.com
 - ⚡ Fun fact: I speak Japanese
 
@@ -28,6 +29,9 @@ I'm from Israel, living in Rishon-LeZion.
 ### Projects
 [![](https://img.shields.io/badge/-%20Make%20Lives%20Better%20Website-000)](https://makelivesbetter.herokuapp.com/)
 [![](https://img.shields.io/badge/-%20Arkanoid%20-000)](https://github.com/TopazAvraham/Arkanoid)
+[![](https://img.shields.io/badge/-%20Multi%20Clients%20Server%20Chat%20Application%20UDP-000)](https://github.com/TopazAvraham/ChatApp--Multiple-Clients-to-Server-UDP-Sockets)
+[![](https://img.shields.io/badge/-%20HTTP%20Server%20using%20TCP%20Sockets-000)](https://github.com/TopazAvraham/HTTP-server-using-TCP-Sockets)
+[![](https://img.shields.io/badge/-%20Pstring%20Assembly-000)](https://github.com/TopazAvraham/Pstrings-Assembly)
 [![](https://img.shields.io/badge/-%20Math%20Expressions%20Interpreter-000)](https://github.com/TopazAvraham/Math-Expressions-Interpreter.git)
 [![](https://img.shields.io/badge/-%20Regex%20Hypernym%20Database-000)](https://github.com/TopazAvraham/Regex-Hypernym-Database.git)
 
