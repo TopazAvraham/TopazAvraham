@@ -2,7 +2,7 @@
   I'm Topaz 👨🏻‍💻</h1>
 <br>
 
-I'm a Software Engineer at Radware, and also B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
+I'm a Software Engineer at Radware, and also B.Sc. Computer Science graduate, from Bar-Ilan University.
 <br />
 I'm from Israel, living in Rehovot.
 <br>
