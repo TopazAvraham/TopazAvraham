@@ -7,9 +7,9 @@ I'm a Software Engineer at Radware, and also B.Sc. Computer Science graduate, fr
 I'm from Israel, living in Rehovot.
 <br>
 
-- 🌱 I’m currently spcializing in C++, and in the networking field.
+🌱 I’m currently spcializing in C++, and in the networking field.
 
-  At Radware I'm:
+At Radware I'm: <br>
 • Designing and developing high-performance C++ networking features for ADC Load Balancer in a Linux embedded system. 
 •	Optimizing secure, high-traffic handling using OOP principles for efficient system design.
 •	Specializing in Application Layer (L7) traffic management, enhancing client-server communication and SSL/TLS security.
