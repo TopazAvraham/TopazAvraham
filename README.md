@@ -2,31 +2,31 @@
   I'm Topaz 👨🏻‍💻</h1>
 <br>
 
-I'm a 3rd year B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
+I'm a Software Engineer in Radware, and also B.Sc. Computer Science Undergraduate Student, from Bar-Ilan University.
 <br />
-I'm from Israel, living in Rishon-LeZion.
+I'm from Israel, living in Rehovot.
 <br>
 
-- ✍ You can find my resume [here](https://drive.google.com/file/d/1ye1It3Eqx6L3fV70n7M7B-GaRfsmjmf3/view?usp=sharing)
-- 🌱 I’m currently learning Communication Networks and Algorithms
+- 🌱 I’m currently spcializing in C++, and in the networking field.
 - 💻 You can find my repositories [here](https://github.com/TopazAvraham?tab=repositories)
 - 📫 Reach out to me: topazvraham9@gmail.com
 - ⚡ Fun fact: I speak Japanese
 
 ### Languages & Technical Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 <br>
 
 ### Projects
+[![](https://img.shields.io/badge/-%20Tennis%20ServeUp%20Community%20Final%20Project-000)](https://github.com/TopazAvraham/ServeUP-Community)
 [![](https://img.shields.io/badge/-%20Make%20Lives%20Better%20Website-000)](https://makelivesbetter.herokuapp.com/)
 [![](https://img.shields.io/badge/-%20Arkanoid%20-000)](https://github.com/TopazAvraham/Arkanoid)
 [![](https://img.shields.io/badge/-%20Multi%20Clients%20Server%20Chat%20Application%20UDP-000)](https://github.com/TopazAvraham/ChatApp--Multiple-Clients-to-Server-UDP-Sockets)
