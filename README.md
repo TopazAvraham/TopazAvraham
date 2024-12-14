@@ -10,9 +10,9 @@ I'm from Israel, living in Rehovot.
 🌱 I’m currently spcializing in C++, and in the networking field.
 
 #### At Radware I am: <br>
-• Designing and developing high-performance C++ networking features for ADC Load Balancer in a Linux embedded system. 
-•	Optimizing secure, high-traffic handling using OOP principles for efficient system design.
-•	Specializing in Application Layer (L7) traffic management, enhancing client-server communication and SSL/TLS security.
+• Designing and developing high-performance C++ networking features for ADC Load Balancer in a Linux embedded system.  <br>
+•	Optimizing secure, high-traffic handling using OOP principles for efficient system design. <br>
+•	Specializing in Application Layer (L7) traffic management, enhancing client-server communication and SSL/TLS security. <br>
 
 - 💻 You can find my repositories [here](https://github.com/TopazAvraham?tab=repositories)
 - 📫 Reach out to me: topazvraham9@gmail.com
