@@ -9,8 +9,7 @@ I'm from Israel, living in Rehovot.
 
 🌱 I’m currently spcializing in C++, and in the networking field.
 
-#### Languages At Radware I am: <br><br>
-
+#### At Radware I am: <br>
 • Designing and developing high-performance C++ networking features for ADC Load Balancer in a Linux embedded system. 
 •	Optimizing secure, high-traffic handling using OOP principles for efficient system design.
 •	Specializing in Application Layer (L7) traffic management, enhancing client-server communication and SSL/TLS security.
